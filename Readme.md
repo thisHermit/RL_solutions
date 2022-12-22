@@ -4,7 +4,7 @@ This repo contains my exercise solutions to the Book: Reinforcement Learning An 
 
 ## Structure:
 
-- [chapter1](./solutions/chapter1/)
+- [Chapter 1](./solutions/chapter1/)
   - [Exercise 1.1](./solutions/chapter1/1_1.md)
   - [Exercise 1.2](./solutions/chapter1/1_2.md)
   - [Exercise 1.3](./solutions/chapter1/1_3.md)
